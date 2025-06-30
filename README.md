@@ -35,6 +35,7 @@ source .venv/bin/activate  # Windows: venv\Scripts\activate
 
 ```bash
 uv pip install -r requirements.txt
+cd notes
 ```
 
 ### 4. Run Migrations
